@@ -6,8 +6,6 @@ Facebook NewsFeed - UICollectionView, NSLayoutConstraint
 * Used Extensions to make adding constraints much much easier.
 
 
-
-Screen Shot
 <img width="462" alt="image" src="https://user-images.githubusercontent.com/38237395/59204173-14044b80-8b6e-11e9-9a32-15c42e85c408.png">
 
 Tutorial Followed: 
